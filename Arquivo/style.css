@@ -1,0 +1,30 @@
+/* Entidades */
+
+.sangue {
+    color: rgb(192, 22, 22);
+}
+
+.morte {
+    color: rgb(107, 109, 110);
+}
+
+.conhecimento {
+    color: rgb(255, 238, 0);
+}
+
+.energia {
+    color: purple;
+}
+
+.medo {
+    color: rgb(136, 136, 136);
+}
+
+.outros {
+    color: rgb(61, 58, 58);
+}
+
+/* Texto roxo especial */
+.text-roxo {
+    color: #6f42c1;
+}
